@@ -1,5 +1,5 @@
 {
-  "name": "angular-formly-templates-ionic",
+  "name": "angular-formly-mhbb",
   "version": "1.2.2",
   "author": "Astrism <astrisms@gmail.com>",
   "contributors": [
@@ -10,13 +10,13 @@
   "homepage": "http://formly-js.github.io/angular-formly-templates-ionic/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/formly-js/angular-formly-templates-ionic.git"
+    "url": "git://github.com/Nengock/angular-formly-templates-ionic.git"
   },
   "main": "dist/angular-formly-templates-ionic.min.js",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.githubusercontent.com/formly-js/angular-formly-templates-ionic/master/LICENSE"
+      "url": "https://raw.githubusercontent.com/Nengock/angular-formly-templates-ionic/master/LICENSE"
     }
   ],
   "scripts": {
